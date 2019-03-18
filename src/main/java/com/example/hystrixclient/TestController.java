@@ -1,4 +1,4 @@
-package com.example.springcorsclient;
+package com.example.hystrixclient;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
